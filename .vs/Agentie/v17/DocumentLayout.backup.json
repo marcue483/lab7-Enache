@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\sortstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\sortstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\sortviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\sortviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\data\\agentiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\data\\agentiecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\filterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\filterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\empty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\empty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\transportarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\transportarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\agentie.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\agentie.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I7-14600KF\\Desktop\\z\\Agentie\\Agentie\\Migrations\\20240927051556_loh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\agentie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\agentie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|c:\\users\\i7-14600kf\\desktop\\asp\\agentie\\agentie\\migrations\\20241023153836_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF03318-FDC9-4CC7-89BA-5C0D109F11A3}|Agentie\\Agentie.csproj|solutionrelative:agentie\\migrations\\20241023153836_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\SortViewModel.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\SortViewModel.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\SortViewModel.cs",
+              "RelativeToolTip": "Agentie\\Models\\SortViewModel.cs",
+              "ViewState": "AgIAAAkAAACAmZmZmZkdwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:42:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Temp.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\Temp.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Temp.cs",
+              "RelativeToolTip": "Agentie\\Models\\Temp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:06:03.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:46:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortState.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\SortState.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\SortState.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\SortState.cs",
+              "RelativeToolTip": "Agentie\\Models\\SortState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:43:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\PageViewModel.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\PageViewModel.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\PageViewModel.cs",
+              "RelativeToolTip": "Agentie\\Models\\PageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:41:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\Package.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Package.cs",
+              "RelativeToolTip": "Agentie\\Models\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:01:00.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "Agentie\\Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAAsAAACQmZmZmZk1wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:11:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgentieContext.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Data\\AgentieContext.cs",
+              "RelativeDocumentMoniker": "Agentie\\Data\\AgentieContext.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Data\\AgentieContext.cs",
+              "RelativeToolTip": "Agentie\\Data\\AgentieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:17:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\FilterViewModel.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\FilterViewModel.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\FilterViewModel.cs",
+              "RelativeToolTip": "Agentie\\Models\\FilterViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:44:39.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agentie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Agentie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAMzMzMzMrwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T07:19:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\Transport.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Transport.cs",
+              "RelativeToolTip": "Agentie\\Models\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:57:23.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Hotel.cs",
+              "RelativeToolTip": "Agentie\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:14:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Empty.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\Empty.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\Empty.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\Empty.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\Empty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:08:10.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Agentie\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Models\\Client.cs",
+              "RelativeToolTip": "Agentie\\Models\\Client.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:38:56.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransportaresController.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\TransportaresController.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\TransportaresController.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\TransportaresController.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\TransportaresController.cs",
+              "ViewState": "AgIAAFYAAAAAmJmZmZnpvxwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:49:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PackagesController.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\PackagesController.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\PackagesController.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\PackagesController.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\PackagesController.cs",
+              "ViewState": "AgIAADMAAACAmZmZmZkwwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:31:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAAQAAACAZmZmZmYpwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:26:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Agentie\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Agentie\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:56:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241023153836_INIT1.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Migrations\\20241023153836_INIT1.cs",
+              "RelativeDocumentMoniker": "Agentie\\Migrations\\20241023153836_INIT1.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Migrations\\20241023153836_INIT1.cs",
+              "RelativeToolTip": "Agentie\\Migrations\\20241023153836_INIT1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:38:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Program.cs",
+              "RelativeDocumentMoniker": "Agentie\\Program.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Program.cs",
+              "RelativeToolTip": "Agentie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:20:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Agentie",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Agentie.csproj",
+              "RelativeDocumentMoniker": "Agentie\\Agentie.csproj",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Agentie.csproj",
+              "RelativeToolTip": "Agentie\\Agentie.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T08:50:21.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Agentie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Agentie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAgMzMzMzMvwCIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T22:10:29.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240927051556_loh.cs",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\z\\Agentie\\Agentie\\Migrations\\20240927051556_loh.cs",
+              "RelativeDocumentMoniker": "..\\..\\z\\Agentie\\Agentie\\Migrations\\20240927051556_loh.cs",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\z\\Agentie\\Agentie\\Migrations\\20240927051556_loh.cs",
+              "RelativeToolTip": "..\\..\\z\\Agentie\\Agentie\\Migrations\\20240927051556_loh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:15:57.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\appsettings.json",
+              "RelativeDocumentMoniker": "Agentie\\appsettings.json",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\appsettings.json",
+              "RelativeToolTip": "Agentie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T22:21:16.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Agentie.csproj",
+              "DocumentMoniker": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Agentie.csproj",
+              "RelativeDocumentMoniker": "Agentie\\Agentie.csproj",
+              "ToolTip": "C:\\Users\\I7-14600KF\\Desktop\\asp\\Agentie\\Agentie\\Agentie.csproj",
+              "RelativeToolTip": "Agentie\\Agentie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T22:15:53.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<!--
+<form method="post" action="/Home/media">
+    a) returnează media aritmetică acestor numere;<br>
+    <input type="number" name="a" required placeholder="" />
+    <input type="number" name="b" required placeholder="" />
+    <input type="number" name="c" required placeholder="" />
+    <button type="submit">Submit</button>
+</form>
+
+<form method="post" action="/Home/sort">
+    b) afișează numere sortate crescător;<br>
+    <input type="number" name="a" required placeholder="" />
+    <input type="number" name="b" required placeholder="" />
+    <input type="number" name="c" required placeholder="" />
+    <button type="submit">Submit</button>
+</form>
+
+<form method="post" action="/Home/cmmdc2">
+    c) afișează cel mai mare divizor comun al numerelor;<br>
+    <input type="number" name="a" required placeholder="" />
+    <input type="number" name="b" required placeholder="" />
+    <input type="number" name="c" required placeholder="" />
+    <button type="submit">Submit</button>
+</form>
+
+<form method="post" action="/Home/aria">
+    d) afișează aria triunghiului format din lungimile laturilor, reprezentate prin numere;<br>
+    <input type="number" name="a" required placeholder="" />
+    <input type="number" name="b" required placeholder="" />
+    <input type="number" name="c" required placeholder="" />
+    <button type="submit">Submit</button>
+</form>
+
+<form method="post" action="/Home/repeat">
+    e) afișează cifrele, ce se repetă în toate trei numere;<br>
+    <input type="number" name="a" required placeholder="" />
+    <input type="number" name="b" required placeholder="" />
+    <input type="number" name="c" required placeholder="" />
+    <button type="submit">Submit</button>
+</form>
+
+<form method="post" action="/Home/zile">
+    f) afișează câte zile au trecut de la începutul anului dacă numere reprezintă anul, luna și
+    ziua;<br>
+    <input type="number" name="an" required placeholder="An" />
+    <input type="number" name="luna" required placeholder="Lună" />
+    <input type="number" name="zi" required placeholder="Zi" />
+    <button type="submit">Submit</button>
+</form>
+-->
+<h1>Lista clienților</h1>
+<form method="get">
+    <div class="form-inline">
+        <label>Nume: </label>
+        <input name="name" value="@Model.FilterViewModel.SelectedName" class="form-control" />
+
+        <label>Prenume: </label>
+        <input name="sName" value="@Model.FilterViewModel.SelectedSName" class="form-control" />
+
+        <label>Hotel: </label>
+        <select name="hotel" asp-items="Model.FilterViewModel.Hotels" class="form-control"></select>
+
+        <label>Transportare: </label>
+        <select name="transport" asp-items="Model.FilterViewModel.Transportares" class="form-control"></select>
+
+        <input type="submit" value="Filtrare" class="btn btn-outline-dark" />
+    </div>
+</form>
+<table class="table">
+    <tr>
+        <th>
+            <a asp-action="Index"
+               asp-route-sortOrder="@(Model.SortViewModel.NameSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-sName="@(Model.FilterViewModel.SelectedSName)"
+               asp-route-hotel="@(Model.FilterViewModel.SelectedHotel)"
+               asp-route-transport="@(Model.FilterViewModel.SelectedTransportare)">Nume</a>
+        </th>
+        <th>
+            <a asp-action="Index"
+               asp-route-sortOrder="@(Model.SortViewModel.SNameSort)"
+               asp-route-name="@(Model.FilterViewModel.SelectedName)"
+               asp-route-sName="@(Model.FilterViewModel.SelectedSName)"
+               asp-route-hotel="@(Model.FilterViewModel.SelectedHotel)"
+               asp-route-transport="@(Model.FilterViewModel.SelectedTransportare)">Prenume</a>
+        </th>
+        <th>Hotel</th>
+        <th>Transport</th>
+    </tr>
+    @foreach (var client in Model.Clients)
+    {
+        <tr>
+            <td>@client.Name</td>
+            <td>@client.SName</td>
+            <td>@client.Hotels?.FirstOrDefault()?.Name</td>
+            <td>@client.Transportares?.FirstOrDefault()?.Name</td>
+        </tr>
+    }
+</table>
+@if (Model.PageViewModel.HasPreviousPage)
+{
+    <a asp-action="Index"
+       asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+       asp-route-name="@(Model.FilterViewModel.SelectedName)"
+       asp-route-sName="@(Model.FilterViewModel.SelectedSName)"
+       asp-route-hotel="@(Model.FilterViewModel.SelectedHotel)"
+       asp-route-transport="@(Model.FilterViewModel.SelectedTransportare)"
+       asp-route-sortOrder="@(Model.SortViewModel.Current)"
+       class="btn btn-outline-dark">
+        <i class="glyphicon glyphicon-chevron-left"></i> Înapoi
+    </a>
+}
+@if (Model.PageViewModel.HasNextPage)
+{
+    <a asp-action="Index"
+       asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+       asp-route-name="@(Model.FilterViewModel.SelectedName)"
+       asp-route-sName="@(Model.FilterViewModel.SelectedSName)"
+       asp-route-hotel="@(Model.FilterViewModel.SelectedHotel)"
+       asp-route-transport="@(Model.FilterViewModel.SelectedTransportare)"
+       asp-route-sortOrder="@(Model.SortViewModel.Current)"
+       class="btn btn-outline-dark">
+        Înainte <i class="glyphicon glyphicon-chevron-right"></i>
+    </a>
+}
